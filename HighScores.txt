@@ -1,0 +1,10 @@
+Player Name: Julie, Symbol: X, Score: 1.0
+Player Name: Charlotte, Symbol: X, Score: 0.0
+Player Name: hudson, Symbol: X, Score: 0.0
+Player Name: alsohudson, Symbol: X, Score: 0.0
+Player Name: a, Symbol: X, Score: 1.0
+Player Name: b, Symbol: X, Score: 1.0
+Player Name: , Symbol: X, Score: 1.0
+Player Name: , Symbol: X, Score: 0.0
+Player Name:  , Symbol: X, Score: 1.0
+Player Name:  , Symbol: X, Score: 0.0
